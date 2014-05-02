@@ -24,7 +24,7 @@ Easily add your Google Analytics to your Wordpress site.  Use classic Google ana
 
 ###Enhance Google Analytics
 
-Google Analytics provides good aggregate data for you to analyze the traffic coming to your site.  Google Analytics, like many analytics programs, does provide you will analytics about how individual users are using your site.
+Google Analytics provides good aggregate data for you to analyze the traffic coming to your site.  Google Analytics, like many analytics programs, doesn't provide you will analytics about how individual users are using your site.
 
 We are providing this plugin to help you get Google Analytics working on your site.  We also use Google Analytics on our sites.
 
