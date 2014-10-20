@@ -14,7 +14,7 @@ Easily add your Google Analytics to your Wordpress site.  Use classic analytics 
 
 Easily add your Google Analytics to your Wordpress site.  Use classic Google analytics code or Google's new Universal Analytics.  If you use Google Universal Analytics, the plugin will allow you to use Google's User Id tracking.
 
-<a href="http://www.thinklandingpages.com/landingpage/track-engage/">Check out TrackEngage</a> to learn how you can enhance Google Analytics.
+<a href="http://www.trackengage.com">Check out TrackEngage</a> to learn how you can enhance Google Analytics.
 
 ###What you get when you use the Wordpress Google Analytics plugin
 
@@ -30,7 +30,7 @@ We are providing this plugin to help you get Google Analytics working on your si
 
 We also want to share a new service we are building that will enhance Google Analytics and help you be more successful in your business.
 
-<a href="http://www.thinklandingpages.com/landingpage/track-engage/">Check out TrackEngage</a> to learn more about how we are making analytics better.
+<a href="http://www.trackengage.com">Check out TrackEngage</a> to learn more about how we are making analytics better.
 
 == Installation ==
 
