@@ -45,7 +45,7 @@ We also want to share a new service we are building that will enhance Google Ana
 == Installation ==
 
 
-1. Upload `contact-form` to the `/wp-content/plugins/` directory
+1. Upload `google-analytics-adder` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Click **Google Analytics Adder** on the admin menu to enable and set your options.
 
@@ -56,7 +56,12 @@ We also want to share a new service we are building that will enhance Google Ana
 
 No.  The plugin does the programming and design.
 
+= Can I use the google analytics adder plugin on all of my sites? =
+Yes, the google analytics adder plugin will work on all of your wordpress sites.
 
+== Screenshots ==
+
+[See screenshots at thinklandingpages.com] (http://www.thinklandingpages.com/google-analytics-adder/)
 
 == Changelog ==
 
