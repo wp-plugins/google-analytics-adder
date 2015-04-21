@@ -3,7 +3,7 @@ Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
 Tags:  analytics, google, google analytics, statistics, stats, tracking, analytics, display advertising, remarketing analytics, tracking code, universal analytics, GA code, GA code integration, GA Plugin, GA Script, Google Analytics in WordPress, universal analytics, WordPress Google Analytics, WP Google Analytics, WP Google Analytics Plugin
 Requires at least: 3.0
-Tested up to: 3.8.1
+Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
